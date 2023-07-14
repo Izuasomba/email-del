@@ -41,6 +41,7 @@ Select "Mail" and "Other (Custom name)" in the dropdown menus.
 Enter a custom name for the app password, such as "email-del."
 Click on the "Generate" button.
 Google will generate an app password for you. Make note of this password as it will be used in the next step.
+If you were not able to succesfully create your app password, turn on 2 factor authentication, after doing that, instead of going through the long steps, go to **https://myaccount.google.com/** and in the search bar, type app passwords and you'd see it. head there and create one 
 
 Run the Docker container:
 
