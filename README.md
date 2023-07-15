@@ -36,7 +36,7 @@ Generate an app password from Google to use with email del. App passwords provid
 
 Go to your Google Account settings: **https://myaccount.google.com/**
 Navigate to the "Security" tab.
-Under "Signing in to Google," click on "App Passwords" (you may need to enable two-factor authentication if not already enabled).
+Under "Signing in to Google," click on "App Passwords"
 Select "Mail" and "Other (Custom name)" in the dropdown menus.
 Enter a custom name for the app password, such as "email-del."
 Click on the "Generate" button.
